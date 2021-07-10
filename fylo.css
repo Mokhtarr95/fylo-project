@@ -473,4 +473,275 @@ footer {
   .col-6 .p-1-1 {
     width: 55%;
   }
+
+  .left-col-items {
+    padding-left: 0;
+  }
+
+  .left-col img {
+    width: 85%;
+  }
+
+  .right-col-items {
+    padding: 0;
+  }
+
+  .headers h1 {
+    font-size: 20px;
+    margin: auto;
+  }
+
+  .headers .p-2 {
+    font-size: 16px;
+    margin: auto;
+    width: 68%;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+  }
+
+  .headers a {
+    margin-left: 16.5%;
+  }
+
+  hr {
+    margin-left: 16%;
+  }
+
+  .quotes {
+    margin-left: 100px;
+  }
+
+  .testmonials {
+    display: block;
+  }
+
+  .testmonials .item {
+    width: 65.3333%;
+    margin-left: 0;
+    margin: auto;
+    margin-top: 50px;
+  }
+
+  .Sign-up {
+    margin-left: 30px;
+    width: 80%;
+    padding: 30px 15px;
+  }
+
+  .sign-up-h1 {
+    font-size: 20px;
+  }
+
+  .sign-up-p {
+    width: 74%;
+    font-size: 16px;
+  }
+
+  .email input {
+    display: block;
+    margin: auto;
+    width: 50%;
+  }
+
+  .getstarted-btn {
+    display: block;
+    margin: auto;
+    width: 74%;
+    margin-top: 20px;
+    padding: 0;
+  }
+
+  footer {
+    padding: 150px 0 35px 0px;
+  }
+
+  .footer-logo {
+    margin-top: 50px;
+    margin-left: 10%;
+  }
+
+  .container-4 {
+    display: block;
+  }
+
+  .location-icon {
+    margin-left: 8%;
+    margin-top: 40px;
+  }
+
+  .footer-p {
+    position: absolute;
+    left: 60px;
+    margin-top: -48px;
+    width: 45%;
+  }
+
+  .footer-icons {
+    padding-inline-start: 0px;
+    margin-left: 7%;
+    margin-top: 80px;
+  }
+
+  .footer-contacts {
+    position: absolute;
+    padding-inline-start: 0;
+    left: 92px;
+    margin-top: -105px;
+  }
+
+  .footer-li-1,
+  .footer-li-2 {
+    padding-inline-start: 0;
+    margin-left: 6%;
+  }
+
+  .footer-li-1 {
+    margin-top: 100px;
+  }
+
+  .footer-li-2 {
+    margin-top: 50px;
+  }
+
+  .socialmedia-icons {
+    margin: 90px 0 10px 35%;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .headers h1 {
+    font-size: 18px;
+    width: 83%;
+  }
+
+  .headers .p-2 {
+    width: 83%;
+    font-size: 15px;
+  }
+
+  .headers a,
+  hr {
+    margin-left: 8.5%;
+  }
+
+  .quotes {
+    margin-left: 45px;
+    margin-top: 118px;
+  }
+
+  .testmonials .item {
+    width: 85.3333%;
+  }
+
+  .testmonials .test-p {
+    width: 97%;
+    margin-left: 20px;
+  }
+
+  .getstarted-btn {
+    width: 82%;
+  }
+
+  .footer-logo {
+    margin-top: 25%;
+  }
+
+  .footer-icons {
+    margin-top: 30%;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  nav {
+    margin-right: 0;
+  }
+
+  .h1 {
+    width: 68%;
+  }
+
+  .h1 p {
+    width: 80%;
+  }
+
+  .col-item-left,
+  .col-item-right {
+    padding: 0;
+  }
+
+  .col-6 .p-1 {
+    width: 63%;
+  }
+
+  .left-col-items {
+    padding-left: 25px;
+  }
+
+  .left-col img {
+    width: 415px;
+  }
+
+  .right-col-items {
+    padding-left: 86px;
+  }
+
+  .headers h1 {
+    width: 67%;
+    font-size: 23px;
+  }
+
+  .quotes {
+    margin-left: 35px;
+  }
+
+  .testmonials .item {
+    margin-left: 25px;
+    width: 28.3333%;
+  }
+
+  .Sign-up {
+    margin-left: 20%;
+  }
+
+  .email input {
+    width: 70%;
+  }
+
+  .getstarted-btn {
+    width: 95%;
+    margin-left: 0;
+    margin-top: 5%;
+  }
+
+  .footer-logo {
+    margin-left: -20px;
+    margin-top: 20%;
+  }
+
+  .location-icon {
+    margin-left: 0;
+  }
+
+  .footer-p {
+    margin-left: 20px;
+    width: 22%;
+  }
+
+  .footer-icons {
+    margin-left: 0;
+  }
+
+  .footer-contacts {
+    margin-inline-start: -21px;
+  }
+
+  .footer-li-1,
+  .footer-li-2 {
+    margin-left: 35px;
+  }
+
+  .socialmedia-icons {
+    margin-top: 215px;
+    margin-left: -60%;
+  }
 }
